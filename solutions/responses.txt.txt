@@ -1,0 +1,9 @@
+Pregunta 7:
+
+El documento mail.xml pesa una cantidad exacta de 882 bytes y el archivo mail.json 555 bytes.
+No disco temos 4096 bytes polo que o archivo xml ocupa un total do 21,5% mentres que o archivo json ocupa un 13,5%.
+
+-------------------------------------------------
+Pregunta 11:
+
+La respuesta es la 1 "urn:trial:examA", ya que esta namespace se declara en el elemento raíz sin  ningún tipo de prefijo, por lo que este afectará a todo el documento.

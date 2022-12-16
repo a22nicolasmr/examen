@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mail>
+    <title>You've Got Mail</title>
+    <year>1998</year>
+    <director>
+        <name>Nora Ephron</name>
+        <nacionality>USA</nacionality>
+    </director>
+    <cast>
+        <actor id="1">
+            <name></name>
+            <character></character>
+        </actor>
+        <actor id="2">
+            <name></name>
+            <character></character>
+        </actor>
+        <actor id="3">
+            <name></name>
+            <character></character>
+        </actor>
+        <actor id="4">
+            <name></name>
+            <character></character>
+        </actor>
+        <actor id="5">
+            <name></name>
+            <character></character>
+        </actor>
+        <actor id="6">
+            <name></name>
+            <character></character>
+        </actor>
+    </cast>
+</mail>
